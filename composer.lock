@@ -1,9 +1,1 @@
-{
-    "hash": "d6346943fb94794161281073ca5171c8",
-    "packages": [
-        {
-            "package": "swiftmailer\/swiftmailer",
-            "version": "4.1.5"
-        }
-    ]
-}
+[{"package":"swiftmailer\/swiftmailer","version":"4.1.5"}]
